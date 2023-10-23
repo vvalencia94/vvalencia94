@@ -7,6 +7,9 @@ I am currently a Certified Occupational Therapist transitioning into the cyberse
 
 - <b>Uncovering New Digital Evidence Using Bootable Forensic Utilities Lab </b>
   - [Forensic Utilities Lab](https://github.com/vvalencia94/Virtual-Lab-Uncovering-New-Digital-Evidence-Using-Bootable-Forensic-Utilities)
+ 
+- <b>Conducting an Incident Response Investigation Lab</b>
+  - [Incident Response Investigation Lab](https://github.com/vvalencia94/Conducting-an-Incident-Response-Investigation-for-a-Suspicious-Login)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vvalencia94/)  
